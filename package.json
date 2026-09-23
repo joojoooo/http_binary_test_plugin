@@ -1,0 +1,9 @@
+{
+  "name": "nuvio-binary-fetch-reproduction",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "compare:node": "node scripts/run-node-comparison.js",
+    "test": "node scripts/run-node-comparison.js"
+  }
+}
